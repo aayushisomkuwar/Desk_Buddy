@@ -1,6 +1,7 @@
 # Project Buddy
 
 A virtual productivity companion designed to make staying organised and focused a little easier.
+Live link: https://desk-buddy-ten.vercel.app
 
 Project Buddy brings together everyday productivity tools in one place, featuring:
 
