@@ -1,7 +1,27 @@
-# Project Buddy v0.2 (React + Vite)
-    npm install
-    npm run dev      # http://localhost:5173
-    npm run build
-src/lib = pure logic, src/hooks = state (tasks, timer, buddy, storage), src/components = UI.
-3D robot: pass a Spline / React Three Fiber component as `renderer` in components/Buddy.jsx (it receives `state`).
-Real AI: replace the body of src/lib/chat.js with a call to your own backend that holds the API key.
+# Project Buddy
+
+A virtual productivity companion designed to make staying organised and focused a little easier.
+
+Project Buddy brings together everyday productivity tools in one place, featuring:
+
+- **Task Management** – Create, manage, and track daily tasks.
+- **Pomodoro Timer** – Structure focus sessions and breaks.
+- **Interactive Companion** – A friendly virtual robot with expressive interactions.
+- **Progress Tracking** – Keep track of completed tasks and focus sessions.
+- **Local Storage** – Retain your data across browser sessions.
+
+### Tech Stack
+React · JavaScript · Vite · CSS · LocalStorage
+
+### Getting Started
+
+```bash
+git clone https://github.com/YOUR_USERNAME/project-buddy.git
+cd project-buddy
+npm install
+npm run dev
+```
+
+---
+
+Built with React and a focus on making productivity more engaging.
