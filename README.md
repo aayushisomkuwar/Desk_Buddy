@@ -16,7 +16,7 @@ React · JavaScript · Vite · CSS · LocalStorage
 ### Getting Started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/project-buddy.git
+git clone https://github.com/aayushisomkuwar/Desk_Buddy.git
 cd project-buddy
 npm install
 npm run dev
